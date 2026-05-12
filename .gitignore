@@ -20,6 +20,10 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 
+# Export output
+export/
+styles/
+
 # OS
 .DS_Store
 Thumbs.db
