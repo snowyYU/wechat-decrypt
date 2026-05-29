@@ -440,7 +440,7 @@ static int scan_pid(pid_t pid, key_entry_t *keys, int *key_count) {
 
 int main(int argc, char *argv[]) {
     printf("============================================================\n");
-    printf("  macOS WeChat Memory Key Scanner (C version)\n");
+    printf("  macOS wemory Key Scanner (C version)\n");
     printf("============================================================\n");
 
     /* Resolve real user's HOME (sudo may change HOME to /var/root) */
